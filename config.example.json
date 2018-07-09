@@ -1,0 +1,18 @@
+{
+  "discord": {
+    "token": ""
+  },
+  "twitter": {
+    "follow": ["924936535111213056"],
+    "api": {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": ""
+    }
+  },
+  "twitch": {
+    "client_id": "",
+    "game_id": 416436
+  }
+}

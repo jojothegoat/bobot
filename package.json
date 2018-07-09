@@ -1,0 +1,27 @@
+{
+  "name": "bobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "github:discordjs/discord.js#bce9a8af1b90dcfcf607e87e61bedfdf7eae3001",
+    "klasa": "github:dirigeants/klasa#13abd184a119642ffbb765dd06bfffd8ee4579f7",
+    "moment": "~2.22",
+    "moment-duration-format": "~2.2",
+    "moment-timezone": "~0.5",
+    "mongodb": "~3.1",
+    "request": "~2.87",
+    "request-promise-native": "~1.0",
+    "twit": "~2.2"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-klasa": "github:dirigeants/klasa-lint"
+  }
+}
