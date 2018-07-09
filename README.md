@@ -1,2 +1,2 @@
 # bobot
-Bless Online Discord Bot
+BoBOT - Bless Online Discord Bot
